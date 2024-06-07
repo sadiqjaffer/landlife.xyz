@@ -38877,7 +38877,7 @@ hr[class*="bg"] {
 
 .allpage-background {
 	position: relative;
-	background-image: url(/images/bg.png);
+	background-image: url("https://cdn.discordapp.com/attachments/948624712458719299/1247927672366043166/image.png?ex=6663c8f6&is=66627776&hm=df5da361a9beae6b0a2ef123a197109ce946a1b6433c0d738a9e512d75664887&");
 	height: 100%;
 	background-attachment: fixed;
 	background-position: center;
